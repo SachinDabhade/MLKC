@@ -2315,9 +2315,9 @@ spec:
               storage: 2Gi
   params:
     - name: ci-repo-url
-      value: https://github.com/arunvel1988/docker_app_ci
+      value: https://github.com/SachinDabhade/gitops_app_ci
     - name: cd-repo-url
-      value: https://github.com/arunvel1988/docker_app_cd
+      value: https://github.com/SachinDabhade/gitops_app_cd
     - name: image-reference
       value: {image_url}
     - name: IMAGE_URL
